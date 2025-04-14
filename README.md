@@ -1,5 +1,8 @@
 # 📊 Análise dos Microdados do ENEM 2023
 
+![ENEM Logo](https://juventudes.es.gov.br/Media/Juventude/_Profiles/c4d8c6e6/7c87a7e/enem-2018-logo1.jpg?v=638721989707453080)
+
+
 Este projeto tem como objetivo realizar o **tratamento** e a **análise exploratória dos dados do ENEM 2023**, com foco em entender o perfil dos participantes e seus desempenhos nas provas. Os dados foram tratados para considerar apenas os candidatos presentes em todas as áreas, garantindo análises mais precisas.
 
 ---
@@ -20,7 +23,7 @@ Este projeto tem como objetivo realizar o **tratamento** e a **análise explorat
 📄 tratamento_enem.ipynb              # Script de tratamento dos dados.
 📄 .gitignore                         # Arquivos/pastas ignoradas pelo Git.
 📄 README.md                          # Este arquivo.
-
+```
 
 ---
 
