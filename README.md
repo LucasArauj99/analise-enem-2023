@@ -6,7 +6,7 @@ Este projeto tem como objetivo realizar o **tratamento** e a **análise explorat
 
 ## 🗂 Estrutura do Projeto
 
-📁 dados/ │ ├── dados_enem_2023.zip # Arquivo compactado com o CSV tratado │ └── MICRODADOS_ENEM_2023.csv # Arquivo original (ignorado pelo Git) │ 📁 utils/ │ ├── grafico.py # Funções utilitárias para visualização │ └── utilitarios.py # Outras funções úteis para reaproveitamento │ 📄 analise_enem_2023.ipynb # Análise dos participantes (sexo, idade, região, etc.) 📄 analise_notas.ipynb # Análise de desempenho por área da prova 📄 tratamento_enem.ipynb # Script de tratamento dos dados 📄 .gitignore # Arquivos/pastas ignoradas pelo Git 📄 README.md # Este arquivo
+<pre> ```plaintext 📁 dados/ │ ├── dados_enem_2023.zip # Arquivo compactado com o CSV tratado │ └── MICRODADOS_ENEM_2023.csv # Arquivo original (ignorado pelo Git) 📁 utils/ │ ├── grafico.py # Funções utilitárias para visualização │ └── utilitarios.py # Outras funções úteis para reaproveitamento 📄 analise_enem_2023.ipynb # Análise dos participantes (sexo, idade, região, etc.) 📄 analise_notas.ipynb # Análise de desempenho por área da prova 📄 tratamento_enem.ipynb # Script de tratamento dos dados 📄 .gitignore # Arquivos/pastas ignoradas pelo Git 📄 README.md # Este arquivo ``` </pre>
 
 
 ---
